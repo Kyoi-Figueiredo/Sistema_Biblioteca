@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899,
+        "disponivel": true
+    },
+    {
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "ano": 1943,
+        "disponivel": true
+    },
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "ano": 1997,
+        "disponivel": true
+    }
+]
