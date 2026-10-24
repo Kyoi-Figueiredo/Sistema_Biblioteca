@@ -16,5 +16,47 @@
         "autor": "J.K. Rowling",
         "ano": 1997,
         "disponivel": true
+    },
+    {
+        "titulo": "Crime e castigo",
+        "autor": "Fiódor Dostoiévski",
+        "ano": 1866,
+        "disponivel": true
+    },
+    {
+        "titulo": "A Casa dos Espíritos",
+        "autor": "Isabel Allende",
+        "ano": 1982,
+        "disponivel": true
+    },
+    {
+        "titulo": "Cem Anos de Solidão",
+        "autor": "Gabriel García Márquez",
+        "ano": 1967,
+        "disponivel": true
+    },
+    {
+        "titulo": "Crepúsculo",
+        "autor": "Stephenie Meyer",
+        "ano": 2005,
+        "disponivel": true
+    },
+    {
+        "titulo": "Eclipse",
+        "autor": "Stephenie Meyer",
+        "ano": 2007,
+        "disponivel": true
+    },
+    {
+        "titulo": "Amanhecer",
+        "autor": "Stephenie Meyer",
+        "ano": 2008,
+        "disponivel": false
+    },
+    {
+        "titulo": "Lua Nova",
+        "autor": "Stephenie Meyer",
+        "ano": 2006,
+        "disponivel": false
     }
 ]
